@@ -16,7 +16,7 @@
 		8F8E450F23D9AEED003D7C06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F8E450D23D9AEED003D7C06 /* LaunchScreen.storyboard */; };
 		8F8E451A23D9AEEE003D7C06 /* testAlamofireTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8E451923D9AEEE003D7C06 /* testAlamofireTests.swift */; };
 		8F8E452523D9AEEE003D7C06 /* testAlamofireUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8E452423D9AEEE003D7C06 /* testAlamofireUITests.swift */; };
-		8F8E453423DAE2C0003D7C06 /* Alamofire-使用 - 掘金.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 8F8E453323DAE2C0003D7C06 /* Alamofire-使用 - 掘金.webarchive */; };
+		8F8E453623DAE525003D7C06 /* Alamofire-使用 - 掘金.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 8F8E453523DAE525003D7C06 /* Alamofire-使用 - 掘金.webarchive */; };
 		9B691EBD1C7262534BD46F8A /* Pods_testAlamofireUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45DFDEC978D2E20348070D8E /* Pods_testAlamofireUITests.framework */; };
 		C0007A97B3C07484954C87D1 /* Pods_testAlamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EAB50B25D3EAC53A05D15FC /* Pods_testAlamofire.framework */; };
 /* End PBXBuildFile section */
@@ -59,7 +59,7 @@
 		8F8E452023D9AEEE003D7C06 /* testAlamofireUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testAlamofireUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F8E452423D9AEEE003D7C06 /* testAlamofireUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testAlamofireUITests.swift; sourceTree = "<group>"; };
 		8F8E452623D9AEEE003D7C06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8F8E453323DAE2C0003D7C06 /* Alamofire-使用 - 掘金.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = "Alamofire-使用 - 掘金.webarchive"; path = "../../Alamofire-使用 - 掘金.webarchive"; sourceTree = "<group>"; };
+		8F8E453523DAE525003D7C06 /* Alamofire-使用 - 掘金.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "Alamofire-使用 - 掘金.webarchive"; sourceTree = "<group>"; };
 		B4ABAD2226F80A78112868A8 /* Pods-testAlamofireTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testAlamofireTests.debug.xcconfig"; path = "Target Support Files/Pods-testAlamofireTests/Pods-testAlamofireTests.debug.xcconfig"; sourceTree = "<group>"; };
 		FA88552538D868F7A4D60A4F /* Pods-testAlamofireTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testAlamofireTests.release.xcconfig"; path = "Target Support Files/Pods-testAlamofireTests/Pods-testAlamofireTests.release.xcconfig"; sourceTree = "<group>"; };
 		FB019355E290E02B18010F52 /* Pods-testAlamofireUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testAlamofireUITests.debug.xcconfig"; path = "Target Support Files/Pods-testAlamofireUITests/Pods-testAlamofireUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -141,7 +141,7 @@
 		8F8E450123D9AEE9003D7C06 /* testAlamofire */ = {
 			isa = PBXGroup;
 			children = (
-				8F8E453323DAE2C0003D7C06 /* Alamofire-使用 - 掘金.webarchive */,
+				8F8E453523DAE525003D7C06 /* Alamofire-使用 - 掘金.webarchive */,
 				8F8E450223D9AEE9003D7C06 /* AppDelegate.swift */,
 				8F8E450423D9AEE9003D7C06 /* SceneDelegate.swift */,
 				8F8E450623D9AEE9003D7C06 /* ViewController.swift */,
@@ -279,7 +279,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8F8E453423DAE2C0003D7C06 /* Alamofire-使用 - 掘金.webarchive in Resources */,
+				8F8E453623DAE525003D7C06 /* Alamofire-使用 - 掘金.webarchive in Resources */,
 				8F8E450F23D9AEED003D7C06 /* LaunchScreen.storyboard in Resources */,
 				8F8E450C23D9AEED003D7C06 /* Assets.xcassets in Resources */,
 				8F8E450A23D9AEE9003D7C06 /* Main.storyboard in Resources */,
